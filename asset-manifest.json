@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Hotelfirebase/static/css/main.914cf694.css",
+    "main.js": "/Hotelfirebase/static/js/main.807f56be.js",
+    "static/js/819.3e69b161.chunk.js": "/Hotelfirebase/static/js/819.3e69b161.chunk.js",
+    "static/js/428.c3297435.chunk.js": "/Hotelfirebase/static/js/428.c3297435.chunk.js",
+    "static/js/279.9d2af218.chunk.js": "/Hotelfirebase/static/js/279.9d2af218.chunk.js",
+    "static/js/202.ec7ea710.chunk.js": "/Hotelfirebase/static/js/202.ec7ea710.chunk.js",
+    "static/js/123.71b01160.chunk.js": "/Hotelfirebase/static/js/123.71b01160.chunk.js",
+    "static/js/12.5247e260.chunk.js": "/Hotelfirebase/static/js/12.5247e260.chunk.js",
+    "static/js/15.c206a6ac.chunk.js": "/Hotelfirebase/static/js/15.c206a6ac.chunk.js",
+    "static/js/787.2fcb74f9.chunk.js": "/Hotelfirebase/static/js/787.2fcb74f9.chunk.js",
+    "static/js/34.87ba4826.chunk.js": "/Hotelfirebase/static/js/34.87ba4826.chunk.js",
+    "index.html": "/Hotelfirebase/index.html",
+    "main.914cf694.css.map": "/Hotelfirebase/static/css/main.914cf694.css.map",
+    "main.807f56be.js.map": "/Hotelfirebase/static/js/main.807f56be.js.map",
+    "819.3e69b161.chunk.js.map": "/Hotelfirebase/static/js/819.3e69b161.chunk.js.map",
+    "428.c3297435.chunk.js.map": "/Hotelfirebase/static/js/428.c3297435.chunk.js.map",
+    "279.9d2af218.chunk.js.map": "/Hotelfirebase/static/js/279.9d2af218.chunk.js.map",
+    "202.ec7ea710.chunk.js.map": "/Hotelfirebase/static/js/202.ec7ea710.chunk.js.map",
+    "123.71b01160.chunk.js.map": "/Hotelfirebase/static/js/123.71b01160.chunk.js.map",
+    "12.5247e260.chunk.js.map": "/Hotelfirebase/static/js/12.5247e260.chunk.js.map",
+    "15.c206a6ac.chunk.js.map": "/Hotelfirebase/static/js/15.c206a6ac.chunk.js.map",
+    "787.2fcb74f9.chunk.js.map": "/Hotelfirebase/static/js/787.2fcb74f9.chunk.js.map",
+    "34.87ba4826.chunk.js.map": "/Hotelfirebase/static/js/34.87ba4826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914cf694.css",
+    "static/js/main.807f56be.js"
+  ]
+}
